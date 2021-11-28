@@ -10,11 +10,11 @@ import {
 @Entity()
 export class Pitchers extends BaseEntity {
 
-    @Field(() => String)
+    @Field({ nullable: true })
     @Column()
     name: string;
 
-    @Field(() => String)
+    @Field({ nullable: true })
     @Column()
     team: string;
 
