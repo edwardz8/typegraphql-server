@@ -1,4 +1,4 @@
-###### Add Pulumi and deploy to Kubernetes
+###### Todo: Add Pulumi and deploy both postgres and graphql server to Kubernetes
 
 
 ```npm install```
