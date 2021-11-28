@@ -1,4 +1,7 @@
-### npm install
+###### Add Pulumi and deploy to Kubernetes
+
+
+```npm install```
 
 ###### packages included
 
